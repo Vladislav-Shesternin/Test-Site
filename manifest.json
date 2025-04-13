@@ -1,6 +1,6 @@
 {
   "name": "Uxo Game",
-  "short_name": "Uxo",
+  "short_name": "Uxo Test",
   "start_url": "https://vladislav-shesternin.github.io/libgdx-web/",
   "display": "standalone",
   "background_color": "#000000",
