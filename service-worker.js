@@ -1,4 +1,4 @@
-const CACHE_NAME = 'uxo-cache-v3'; // ← змінюй версію при кожному оновленні
+const CACHE_NAME = 'uxo-cache-v4'; // ← змінюй версію при кожному оновленні
 
 self.addEventListener('install', function(event) {
   event.waitUntil(
